@@ -1,16 +1,11 @@
-head {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    align-content: center;
-}
-
-
 body {
     background-color: red;
 }
 
 h1 {
     font-family: arial;color: navy;size: 20px;
-
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    align-content: center;
 }
