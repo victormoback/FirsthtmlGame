@@ -8,7 +8,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.css
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -328,5 +327,3 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder
 .mfractor/
-
-style.css
